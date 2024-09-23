@@ -13,4 +13,6 @@ color: red;
 h* {
     box-shadow: 10px;
     border: solid;
+    color: bisque;
+    font-family: 'Times New Roman', Times, serif;
 }
