@@ -9,3 +9,8 @@ align-items: center;
 font-family: "Rubik", sans-serif;
 color: red;
 }
+
+h* {
+    box-shadow: 10px;
+    border: solid;
+}
